@@ -63,24 +63,6 @@
 
 ;; Functions:
 
-; 
-; Here is a sketch of one way the lines could work. What 
-; this sketch does is allows us to see the structure of
-; the functions pretty clearly. We'll have one helper for
-; the key value image, and one helper to draw the lines.
-; Each of those produces a rectangular image of course.
-; 
-; .
-; 
-; And here is a sketch of the helper that draws the lines:
-; .  
-; where lw means width of left subtree image and
-;       rw means width of right subtree image
-
-
-
-;; Functions:
-
 ;; BST -> Image
 ;; produce a SUMPLE rendering of the BST with lines
 ;; ASSUME BST is relatively well balanced
