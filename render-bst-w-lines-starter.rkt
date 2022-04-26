@@ -3,17 +3,6 @@
 
 (require 2htdp/image)
 
-; PROBLEM:
-; 
-; Given the following data definition for a binary search tree,
-; design a function that consumes a bst and produces a SIMPLE 
-; rendering of that bst including lines between nodes and their 
-; subnodes.
-; 
-; To help you get started, we've added some sketches below of 
-; one way you could include lines to a bst.
-
-
 ;; Constants
 
 (define TEXT-SIZE  14)
